@@ -1,0 +1,32 @@
+{
+  "name": "serenis-vscode-essentials",
+  "displayName": "Serenis VSCode Essentials",
+  "description": "Essentials extensions for Serenis engineers",
+  "version": "0.0.1",
+  "icon": "icon.png",
+  "engines": {
+    "vscode": "^1.75.0"
+  },
+  "galleryBanner": {
+    "color": "#4B33D7",
+    "theme": "dark"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "repository": {
+    "url": "https://github.com/heavybeard/vscode-serenis-essentials"
+  },
+  "homepage": "https://github.com/heavybeard/vscode-serenis-essentials",
+  "bugs": {
+    "url": "https://github.com/heavybeard/vscode-serenis-essentials/issues"
+  },
+  "extensionPack": [
+    "mrmlnc.vscode-duplicate",
+    "Prisma.prisma",
+    "alefragnani.project-manager",
+    "esbenp.prettier-vscode",
+    "Equinusocio.vsc-material-theme",
+    "Equinusocio.vsc-material-theme-icons"
+  ]
+}
