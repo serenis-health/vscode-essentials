@@ -4,6 +4,7 @@
   "description": "Essentials extensions for Serenis engineers",
   "version": "0.0.1",
   "icon": "icon.png",
+  "publisher": "Serenis",
   "engines": {
     "vscode": "^1.75.0"
   },
