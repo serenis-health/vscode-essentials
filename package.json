@@ -2,7 +2,7 @@
   "name": "serenis-vscode-essentials",
   "displayName": "Serenis VSCode Essentials",
   "description": "Essentials extensions for Serenis engineers",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "icon": "icon.png",
   "publisher": "Serenis",
   "engines": {
@@ -16,11 +16,11 @@
     "Extension Packs"
   ],
   "repository": {
-    "url": "https://github.com/heavybeard/vscode-serenis-essentials"
+    "url": "https://github.com/serenis-health/vscode-essentials"
   },
-  "homepage": "https://github.com/heavybeard/vscode-serenis-essentials",
+  "homepage": "https://github.com/serenis-health/vscode-essentials",
   "bugs": {
-    "url": "https://github.com/heavybeard/vscode-serenis-essentials/issues"
+    "url": "https://github.com/serenis-health/vscode-serenis/issues"
   },
   "extensionPack": [
     "mrmlnc.vscode-duplicate",
