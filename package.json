@@ -23,11 +23,25 @@
     "url": "https://github.com/serenis-health/vscode-serenis/issues"
   },
   "extensionPack": [
-    "mrmlnc.vscode-duplicate",
-    "Prisma.prisma",
     "alefragnani.project-manager",
-    "esbenp.prettier-vscode",
+    "denoland.vscode-deno",
+    "Equinusocio.vsc-material-theme-icons",
     "Equinusocio.vsc-material-theme",
-    "Equinusocio.vsc-material-theme-icons"
-  ]
+    "esbenp.prettier-vscode",
+    "mikestead.dotenv",
+    "mrmlnc.vscode-duplicate",
+    "ms-vsliveshare.vsliveshare",
+    "neptunedesign.vs-slug",
+    "Prisma.prisma",
+    "tilt-dev.tiltfile"
+  ],
+  "pricing": "Free",
+  "dependencies": {
+    "@vscode/vsce": "2.17.0"
+  },
+  "scripts": {
+    "vsce:login": "vsce login serenis",
+    "vsce:package": "vsce package",
+    "vsce:publish": "vsce publish"
+  }
 }
