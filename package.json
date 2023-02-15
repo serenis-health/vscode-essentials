@@ -32,6 +32,7 @@
     "mrmlnc.vscode-duplicate",
     "neptunedesign.vs-slug",
     "Prisma.prisma",
+    "styled-components.vscode-styled-components",
     "tilt-dev.tiltfile"
   ],
   "pricing": "Free",
