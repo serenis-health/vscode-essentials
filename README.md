@@ -14,3 +14,4 @@ These are essentials extensions for Serenis engineers workspace
 - [Material Theme Icons](https://marketplace.visualstudio.com/items?itemName=Equinusocio.vsc-material-theme-icons) - Material Theme Icons, the most epic icons theme for Visual Studio Code and Material Theme.
 - [Slugify](https://marketplace.visualstudio.com/items?itemName=neptunedesign.vs-slug) - Slugify a string
 - [TiltFile](https://marketplace.visualstudio.com/items?itemName=tilt-dev.tiltfile) - TiltFile syntax support
+- [vscode-styled-components](https://marketplace.visualstudio.com/items?itemName=styled-components.vscode-styled-components) - Syntax highlighting for styled-components

@@ -2,7 +2,7 @@
   "name": "serenis-vscode-essentials",
   "displayName": "Serenis VSCode Essentials",
   "description": "Essentials extensions for Serenis engineers",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "icon": "icon.png",
   "publisher": "Serenis",
   "engines": {
@@ -32,6 +32,7 @@
     "mrmlnc.vscode-duplicate",
     "neptunedesign.vs-slug",
     "Prisma.prisma",
+    "styled-components.vscode-styled-components",
     "tilt-dev.tiltfile"
   ],
   "pricing": "Free",
