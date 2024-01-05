@@ -20,7 +20,7 @@ jobs:
       packages: write
     steps:
       - name: clone
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
       - name: prepare
         uses: actions/setup-node@v3
