@@ -33,6 +33,7 @@
     "neptunedesign.vs-slug",
     "Prisma.prisma",
     "styled-components.vscode-styled-components",
+    "stylelint.vscode-stylelint",
     "tilt-dev.tiltfile"
   ],
   "pricing": "Free",
