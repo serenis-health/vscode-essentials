@@ -38,9 +38,11 @@
   ],
   "pricing": "Free",
   "dependencies": {
-    "@vscode/vsce": "2.17.0"
+    "@vscode/vsce": "2.17.0",
+    "auto-changelog": "^2.4.0"
   },
   "scripts": {
+    "version": "auto-changelog -t keepachangelog -p && git add CHANGELOG.md",
     "vsce:login": "vsce login serenis",
     "vsce:package": "vsce package",
     "vsce:publish": "vsce publish"
