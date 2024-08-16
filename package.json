@@ -38,7 +38,7 @@
   ],
   "pricing": "Free",
   "dependencies": {
-    "@vscode/vsce": "2.17.0"
+    "@vscode/vsce": "2.32.0"
   },
   "scripts": {
     "vsce:login": "vsce login serenis",
