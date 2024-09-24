@@ -29,10 +29,10 @@ jobs:
           cache: 'yarn'
 
       - name: setup
-        run: yarn
+        run: yarn --frozen-lockfile --ignore-engines
 
       - name: package
-        run: yarn vsce:package
+        run: yarn vsce:package --no-yarn
 
       - name: publish
-        run: yarn vsce:publish
+        run: yarn vsce:publish --no-yarn
