@@ -15,4 +15,5 @@ These are essentials extensions for Serenis engineers workspace
 - [Slugify](https://marketplace.visualstudio.com/items?itemName=neptunedesign.vs-slug) - Slugify a string
 - [Stylelint](https://marketplace.visualstudio.com/items?itemName=stylelint.vscode-stylelint) - Official Stylelint extension for Visual Studio Code
 - [TiltFile](https://marketplace.visualstudio.com/items?itemName=tilt-dev.tiltfile) - TiltFile syntax support
+- [vitest.explorer][https://marketplace.visualstudio.com/items?itemName=vitest.explorer] - Vitest extension for running, debugging and watch tests
 - [vscode-styled-components](https://marketplace.visualstudio.com/items?itemName=styled-components.vscode-styled-components) - Syntax highlighting for styled-components
