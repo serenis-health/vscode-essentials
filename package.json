@@ -2,7 +2,7 @@
   "name": "serenis-vscode-essentials",
   "displayName": "Serenis VSCode Essentials",
   "description": "Essentials extensions for Serenis engineers",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "icon": "icon.png",
   "publisher": "Serenis",
   "engines": {
@@ -34,11 +34,12 @@
     "Prisma.prisma",
     "styled-components.vscode-styled-components",
     "stylelint.vscode-stylelint",
-    "tilt-dev.tiltfile"
+    "tilt-dev.tiltfile",
+    "vitest.explorer"
   ],
   "pricing": "Free",
   "dependencies": {
-    "@vscode/vsce": "3.1.0"
+    "@vscode/vsce": "3.2.2"
   },
   "scripts": {
     "vsce:login": "vsce login serenis",
